@@ -1,0 +1,110 @@
+[
+    {
+        "id":"1",
+        "title":"Education", 
+        "items":[
+            {
+                "item_id": 1,
+                "it_date": "1998 - 2004",
+                "it_title": "Bachelors in Engineering in Information Technology",
+                "it_desc": "Bachelors in Engineering in Information Technology" 
+            },
+            {
+                "item_id": 2,
+                "it_date": "2004 - 2006",
+                "it_title": "Masters in Data Analysis",
+                "it_desc": "Harvard School of Science and management" 
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "title":"Experiences", 
+        "items":[
+            {
+                "item_id": 3,
+                "it_date": "1998 - 2004",
+                "it_title": "Creative Agency Inc.: Design head",
+                "it_desc": "iacentem substantiales um se sed esse haec Possit facis qui a a a patriam ." 
+            },
+            {
+                "item_id": 4,
+                "it_date": "2004 - 2006",
+                "it_title": "Studio Alpha.: Project Manager",
+                "it_desc": "iacentem substantiales um se sed esse haec Possit facis qui a a a patriam ." 
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "title":"Interests", 
+        "items":[
+            {
+                "item_id": 5,
+                "it_date": "1998 - 2004",
+                "it_title": "Bachelors in Engineering in Information Technology",
+                "it_desc": "Bachelors in Engineering in Information Technology" 
+            },
+            {
+                "item_id": 6,
+                "it_date": "2004 - 2006",
+                "it_title": "Masters in Data Analysis",
+                "it_desc": "Harvard School of Science and management" 
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "title":"Education", 
+        "items":[
+            {
+                "item_id": 7,
+                "it_date": "1998 - 2004",
+                "it_title": "Bachelors in Engineering in Information Technology",
+                "it_desc": "Bachelors in Engineering in Information Technology" 
+            },
+            {
+                "item_id": 8,
+                "it_date": "2004 - 2006",
+                "it_title": "Masters in Data Analysis",
+                "it_desc": "Harvard School of Science and management" 
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "title":"Experiences", 
+        "items":[
+            {
+                "item_id": 9,
+                "it_date": "1998 - 2004",
+                "it_title": "Creative Agency Inc.: Design head",
+                "it_desc": "iacentem substantiales um se sed esse haec Possit facis qui a a a patriam ." 
+            },
+            {
+                "item_id": 10,
+                "it_date": "2004 - 2006",
+                "it_title": "Studio Alpha.: Project Manager",
+                "it_desc": "iacentem substantiales um se sed esse haec Possit facis qui a a a patriam ." 
+            }
+        ]
+    },
+    {
+        "id":"6",
+        "title":"Interests", 
+        "items":[
+            {
+                "item_id": 11,
+                "it_date": "1998 - 2004",
+                "it_title": "Bachelors in Engineering in Information Technology",
+                "it_desc": "Bachelors in Engineering in Information Technology" 
+            },
+            {
+                "item_id": 12,
+                "it_date": "2004 - 2006",
+                "it_title": "Masters in Data Analysis",
+                "it_desc": "Harvard School of Science and management" 
+            }
+        ]
+    }
+]

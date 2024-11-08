@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "sitename":"facebook",
+        "url": "z" ,
+        "active": true
+    },{
+        "id": 2,
+        "sitename":"twitter",
+        "url": "" ,
+        "active": true
+    },{
+        "id": 3,
+        "sitename":"skype",
+        "url": "" ,
+        "active": false
+    },{
+        "id": 4,
+        "sitename":"tumblr",
+        "url": "" ,
+        "active": false
+    },{
+        "id": 5,
+        "sitename":"snapchat",
+        "url": "" ,
+        "active": false
+    },{
+        "id": 6,
+        "sitename":"whatsapp",
+        "url": "" ,
+        "active": true
+    },{
+        "id": 7,
+        "sitename":"github",
+        "url": "" ,
+        "active": true
+    },{
+        "id": 8,
+        "sitename":"messenger",
+        "url": "" ,
+        "active": false
+    },{
+        "id": 9,
+        "sitename":"behance",
+        "url": ""  ,
+        "active": false
+    },
+    {
+        "id": 10,
+        "sitename":"telegram",
+        "url": "" ,
+        "active": false
+    }
+]

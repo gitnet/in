@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+        "button_txt": "Design",
+        "data-filter": "design",
+        "is_checked" : true 
+       
+    } , 
+    {
+        "id":"2",
+        "button_txt": "Programming",
+        "data-filter": "programming",
+        "is_checked" : false 
+        
+    } ,
+    {
+        "id":"3",
+        "button_txt": "Networking",
+        "data-filter": "networking",
+        "is_checked" : false 
+    } ,
+    {
+        "id":"",
+        "button_txt": "Operating System",
+        "data-filter": "OS",
+        "is_checked" : false 
+    } ,
+    {
+        "id":"",
+        "button_txt": "Web Developer",
+        "data-filter": "webdev",
+        "is_checked" : false
+    } 
+]

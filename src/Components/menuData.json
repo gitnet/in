@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "link_txt": "HOME",
+        "link_url": "/",
+        "link_pro": false,
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "link_txt": "PORTFOLIO",
+        "link_url": "/",
+        "link_pro": true,
+        "is_active": false
+    },
+    {
+        "id": 3,
+        "link_txt": "SINGLE PORTFOLIO",
+        "link_url": "/",
+        "link_pro": true,
+        "is_active": false
+    },
+    {
+        "id": 4,
+        "link_txt": "SINGLE POST",
+        "link_url": "/",
+        "link_pro": false,
+        "is_active": false
+    },
+    {
+        "id": 5,
+        "link_txt": "STYLES",
+        "link_url": "/",
+        "link_pro": true,
+        "is_active": false
+    },
+    {
+        "id": 6,
+        "link_txt": "BLOG",
+        "link_url": "/",
+        "link_pro": true,
+        "is_active": false
+    },
+    {
+        "id": 7,
+        "link_txt": "TEAM",
+        "link_url": "/",
+        "link_pro": true,
+        "is_active": false
+    },
+    {
+        "id": 8,
+        "link_txt": "CONTACT",
+        "link_url": "/",
+        "link_pro": true,
+        "is_active": false
+    } 
+]
